@@ -7,6 +7,5 @@ def directors_database
 end
 
 def pretty_print_nds(nds)
-act = pp directors_database
-act
+pp nds
 end
